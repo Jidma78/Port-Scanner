@@ -29,4 +29,8 @@ No external dependencies are required.
 
 ```bash
 git https://github.com/Jidma78/Port-Scanner.git
+````
+
+```bash
 cd port-scanner
+```
